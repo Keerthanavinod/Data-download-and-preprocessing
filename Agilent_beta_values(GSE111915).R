@@ -1,4 +1,5 @@
 setwd("/home/keerthana2/AML/Methylation profiling data/data/")
+#load libraries
 library(GEOquery)
 library(data.table)
 library(dplyr)
