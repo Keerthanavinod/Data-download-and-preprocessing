@@ -1,4 +1,5 @@
 setwd("/home/keerthana2/AML/AGILENT/")
+#loading libraries
 library(limma)
 library(GEOquery)
 library(dplyr)
