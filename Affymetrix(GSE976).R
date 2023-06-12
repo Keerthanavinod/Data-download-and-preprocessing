@@ -11,7 +11,7 @@ detach("package:oligo", unload = TRUE)
 
 
 setwd("~/AML/data")
-#library(oligo)
+#load library
 library(affy)
 library(GEOquery)
 library(dplyr)
