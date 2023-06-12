@@ -1,4 +1,5 @@
 setwd("/home/keerthana2/AML/High_throughput_sequencing/data/")
+#loading libraries 
 library(dplyr)
 library(GEOquery)
 library(EnsDb.Hsapiens.v86)
